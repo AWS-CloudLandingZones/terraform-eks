@@ -20,3 +20,10 @@ This project contains a robust and reusable Terraform configuration to deploy an
 - GitHub account for repository management and Actions
 - SSH key pair created in AWS
 
+## Setup Instructions
+1. Clone the repository to your local machine.
+   ```sh
+   git clone https://github.com/your-username/your-repo.git
+   cd your-repo
+make init
+
